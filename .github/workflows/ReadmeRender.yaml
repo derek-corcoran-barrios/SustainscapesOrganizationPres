@@ -32,5 +32,5 @@ jobs:
       - name: Commit results
         run: |
           git add README.md man/figures/README-*
-          git commit README.md -am 'Re-build README.md' || echo "No changes to commit"
+          git commit -am 'Re-build README.md' || echo "No changes to commit"
           git push origin main || echo "No changes to commit"

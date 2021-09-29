@@ -26,6 +26,7 @@ options("kableExtra.html.bsTable" = T)
 - Manage privacy of repositories
 - Have a free webpage
 - GitHub Actions (Check Packages automate running scripts)
+- Mantain R packages
 
 # Task management
 
@@ -36,7 +37,7 @@ options("kableExtra.html.bsTable" = T)
 * People form the organization can be tagged.
 * On public projects it can be triggered by someone creating an issue
 
-```{r}
+```{r, out.width= "90%"}
 knitr::include_graphics("Task_Management.png")
 ```
 
@@ -44,7 +45,7 @@ knitr::include_graphics("Task_Management.png")
 
 * Personalized [tags](https://github.com/Sustainscapes/DataSciencePlanning/labels)
 
-```{r}
+```{r, out.width= "100%"}
 knitr::include_graphics("Tags.png")
 ```
 
@@ -52,7 +53,7 @@ knitr::include_graphics("Tags.png")
 
 * [Milestones](https://github.com/Sustainscapes/DataSciencePlanning/milestones) with due dates
 
-```{r}
+```{r, out.width= "100%"}
 knitr::include_graphics("Milestones.png")
 ```
 
@@ -64,9 +65,55 @@ knitr::include_graphics("Milestones.png")
 * Member (Create and work on Repos, Create projects, mention any visible team or member, Can be made a team maintainer)
 
 
-```{r}
+```{r, out.width= "90%"}
 knitr::include_graphics("Roles.png")
 ```
 
+# Free website
+
+## Free website
+
+* Include schedulled programs
+* Include interactive maps
+
+```{r}
+knitr::include_graphics("Website.png")
+```
 
 
+# Github Actions
+
+## Github Actions
+
+* Testing our scripts to make sure they work cross platform
+
+```{r, out.width= "80%"}
+knitr::include_graphics("OSTest.png")
+```
+
+## Github Actions
+
+* Schedulled actions
+    + Update datasets
+    + Update products (Maps, Latest publications etc)
+
+```{r, out.width= "80%"}
+knitr::include_graphics("Sheduled.png")
+```
+
+
+## Github Actions
+
+* Small computers
+* You can use 30 at the same time
+* Up to 8 hours of free computing
+
+```{r, out.width= "70%"}
+knitr::include_graphics("Computers.png")
+```
+
+## Github Actions
+
+* Linux (Ubuntu 16.04 to 20.04)
+* MacOS (Catalina 10.15 and Big Sur 11)
+* Windows (Windows Servers 2016, 2019, and 2022)
