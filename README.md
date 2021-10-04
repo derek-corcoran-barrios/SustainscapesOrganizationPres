@@ -7,7 +7,7 @@ This repo is a test on how to update with github actions
 
 ![](man/figures/README-unnamed-chunk-2-1.png)
 
-The last tremor or earthquake happened 70 km WSW of Murghob, Tajikistan,
-and had a magnitude of 4.7. The most intense tremor or earthquake in the
-last month happened Mid-Indian Ridge and had a magnitude of 5.9, this
-was updated at 04/10, 2021 03:05. Thanks stackoverflow!!
+The last tremor or earthquake happened 56 km NE of Masjed Soleymān,
+Iran, and had a magnitude of 5.6. The most intense tremor or earthquake
+in the last month happened Mid-Indian Ridge and had a magnitude of 5.9,
+this was updated at 04/10, 2021 06:27. Thanks stackoverflow!!
