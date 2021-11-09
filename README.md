@@ -7,7 +7,8 @@ This repo is a test on how to update with github actions
 
 ![](man/figures/README-unnamed-chunk-2-1.png)
 
-The last tremor or earthquake happened 90 km NE of Sarāhan, India, and
-had a magnitude of 4.5. The most intense tremor or earthquake in the
-last month happened Mid-Indian Ridge and had a magnitude of 5.5, this
-was updated at 09/11, 2021 13:33. Thanks stackoverflow!!
+The last tremor or earthquake happened 35 km W of Ashkāsham,
+Afghanistan, and had a magnitude of 4.4. The most intense tremor or
+earthquake in the last month happened Mid-Indian Ridge and had a
+magnitude of 5.5, this was updated at 09/11, 2021 17:33. Thanks
+stackoverflow!!
