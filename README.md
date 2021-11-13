@@ -7,7 +7,7 @@ This repo is a test on how to update with github actions
 
 ![](man/figures/README-unnamed-chunk-2-1.png)
 
-The last tremor or earthquake happened eastern Turkey, and had a
-magnitude of 4.8. The most intense tremor or earthquake in the last
-month happened Mid-Indian Ridge and had a magnitude of 5.5, this was
-updated at 13/11, 2021 09:26. Thanks stackoverflow!!
+The last tremor or earthquake happened 22 km NE of Sincik, Turkey, and
+had a magnitude of 4.8. The most intense tremor or earthquake in the
+last month happened Mid-Indian Ridge and had a magnitude of 5.5, this
+was updated at 13/11, 2021 13:30. Thanks stackoverflow!!
