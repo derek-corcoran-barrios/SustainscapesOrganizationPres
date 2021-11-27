@@ -10,4 +10,4 @@ This repo is a test on how to update with github actions
 The last tremor or earthquake happened 28 km ESE of Farkhār,
 Afghanistan, and had a magnitude of 4. The most intense tremor or
 earthquake in the last month happened southern Iran and had a magnitude
-of 6.3, this was updated at 27/11, 2021 09:24. Thanks stackoverflow!!
+of 6.3, this was updated at 27/11, 2021 13:30. Thanks stackoverflow!!
