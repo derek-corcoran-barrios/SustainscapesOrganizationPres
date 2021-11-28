@@ -9,5 +9,5 @@ This repo is a test on how to update with github actions
 
 The last tremor or earthquake happened 50 km SW of Qā’en, Iran, and had
 a magnitude of 4.7. The most intense tremor or earthquake in the last
-month happened 64 km NNW of Bandar Abbas, Iran and had a magnitude of
-6.3, this was updated at 28/11, 2021 09:23. Thanks stackoverflow!!
+month happened southern Iran and had a magnitude of 6.3, this was
+updated at 28/11, 2021 13:30. Thanks stackoverflow!!
