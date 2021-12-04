@@ -7,7 +7,7 @@ This repo is a test on how to update with github actions
 
 ![](man/figures/README-unnamed-chunk-2-1.png)
 
-The last tremor or earthquake happened 24 km WSW of Ashkāsham,
-Afghanistan, and had a magnitude of 4.4. The most intense tremor or
-earthquake in the last month happened southern Iran and had a magnitude
-of 6.3, this was updated at 03/12, 2021 21:25. Thanks stackoverflow!!
+The last tremor or earthquake happened Carlsberg Ridge, and had a
+magnitude of 4.7. The most intense tremor or earthquake in the last
+month happened 64 km NNW of Bandar Abbas, Iran and had a magnitude of
+6.3, this was updated at 04/12, 2021 02:02. Thanks stackoverflow!!
