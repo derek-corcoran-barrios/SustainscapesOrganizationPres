@@ -8,6 +8,6 @@ This repo is a test on how to update with github actions
 ![](man/figures/README-unnamed-chunk-2-1.png)
 
 The last tremor or earthquake happened Carlsberg Ridge, and had a
-magnitude of 4.7. The most intense tremor or earthquake in the last
+magnitude of 4.9. The most intense tremor or earthquake in the last
 month happened southern Iran and had a magnitude of 6.3, this was
-updated at 04/12, 2021 05:27. Thanks stackoverflow!!
+updated at 04/12, 2021 09:26. Thanks stackoverflow!!
