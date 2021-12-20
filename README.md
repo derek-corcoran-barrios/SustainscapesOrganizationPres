@@ -10,4 +10,4 @@ This repo is a test on how to update with github actions
 The last tremor or earthquake happened Chagos Archipelago region, and
 had a magnitude of 4.9. The most intense tremor or earthquake in the
 last month happened Mid-Indian Ridge and had a magnitude of 5.5, this
-was updated at 20/12, 2021 02:08. Thanks stackoverflow!!
+was updated at 20/12, 2021 09:32. Thanks stackoverflow!!
