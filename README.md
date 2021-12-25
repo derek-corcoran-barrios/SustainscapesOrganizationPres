@@ -7,7 +7,8 @@ This repo is a test on how to update with github actions
 
 ![](man/figures/README-unnamed-chunk-2-1.png)
 
-The last tremor or earthquake happened 152 km S of Al Ghayz̧ah, Yemen,
-and had a magnitude of 5.3. The most intense tremor or earthquake in the
-last month happened Mid-Indian Ridge and had a magnitude of 5.5, this
-was updated at 25/12, 2021 02:05. Thanks stackoverflow!!
+The last tremor or earthquake happened 18 km SSW of Alik Ghund,
+Pakistan, and had a magnitude of 4.6. The most intense tremor or
+earthquake in the last month happened Mid-Indian Ridge and had a
+magnitude of 5.5, this was updated at 25/12, 2021 09:31. Thanks
+stackoverflow!!
