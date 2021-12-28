@@ -7,7 +7,7 @@ This repo is a test on how to update with github actions
 
 ![](man/figures/README-unnamed-chunk-2-1.png)
 
-The last tremor or earthquake happened 38 km SE of Jurm, Afghanistan,
+The last tremor or earthquake happened 66 km ESE of Gilgit, Pakistan,
 and had a magnitude of 4.4. The most intense tremor or earthquake in the
 last month happened Mid-Indian Ridge and had a magnitude of 5.5, this
-was updated at 27/12, 2021 21:26. Thanks stackoverflow!!
+was updated at 28/12, 2021 02:05. Thanks stackoverflow!!
